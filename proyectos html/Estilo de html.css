@@ -1,0 +1,81 @@
+header {
+    background-color: #01b32e; /* Cambia este valor por el color de fondo deseado */
+    padding: 30px;
+    text-align: center;
+    color: #ffffff; /* Cambia este valor por el color del texto deseado */  
+    margin-bottom: 100px;
+  }
+
+  body{
+    background-image: url(Imagen\ de\ WhatsApp\ 2023-05-06\ a\ las\ 11.24.22.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: auto;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    color: #ffffff; /* Cambia este valor por el color de los enlaces deseado */
+    text-decoration: none;
+    margin: 0 10px;
+  }
+.box{
+  margin-bottom: 20px; /* Espacio de 20 píxeles en la parte inferior */
+  margin: 20px;
+  padding: 10px;
+  width:1850px;
+  height: 250px;
+  /*background-color: #f1d4d4;*/
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+#f1{
+  width: 250px;
+  height: 175px;
+  text-decoration: none; /* Elimina el subrayado */
+}
+#le{
+  color:rgb(212, 250, 0);
+  font-weight: bold;
+  font-size: larger;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+
+}
+.link{
+  text-decoration: none; /* Elimina el subrayado */
+}
+.box a p{
+  text-align: center;
+  font-style: arial;
+  
+}
+.box1{
+  margin-bottom: 20px; /* Espacio de 20 píxeles en la parte inferior */
+  margin: 20px;
+  padding: 10px;
+  width:1850px;
+  height: 250px;
+ /* background-color: #f1d4d4;*/
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+footer {
+  background-color: #01b32e; /* Cambia este valor por el color de fondo deseado */
+  padding: 30px;
+  text-align: center;
+  color: #ffffff; /* Cambia este valor por el color del texto deseado */  
+}
